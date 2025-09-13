@@ -1,10 +1,22 @@
 finance_app/
-├── main.py               # Bosh menyu va navigatsiya
-├── daromad.py            # Daromad bo‘limi (formalar, jadval, tahrirlash)
-├── xarajat.py            # Xarajat bo‘limi
-├── kreditor.py           # Kreditorlar bo‘limi
-├── debitor.py            # Debitorlar bo‘limi
-├── db.py                 # SQLite bazani yaratish
-├── models.py             # CRUD funksiyalar
-├── kontragent.py         # Kontragentlar bo‘limi
-└── finance.db            # Ma’lumotlar bazasi
+│    └── dist                 # EXE fayl turgan papka
+│        └── finance_app.exe  # Dasturning .EXE formatga o'takizgan versiaysi    
+├── main.py                   # Bosh menyu va navigatsiya
+├── daromad.py                # Daromad bo‘limi (formalar, jadval, tahrirlash)
+├── xarajat.py                # Xarajat bo‘limi
+├── kreditor.py               # Kreditorlar bo‘limi
+├── debitor.py                # Debitorlar bo‘limi
+├── db.py                     # SQLite bazani yaratish
+├── models.py                 # CRUD funksiyalar
+├── kontragent.py             # Kontragentlar bo‘limi
+├── tahlil.py                 # Tahlil bo‘limi
+├── kontragent.py             # Kontragentlar ro'xati
+├── muallif.py                # Muallif haqida  bo‘limi
+├── READme.md                 # READme fayli
+├── finance_app.spec          # .EXE shakliga o'tkazish uchun .spec fayl
+├── LICENSE                   # MIT Litsenziya
+├── .gitignore                # .gitignore fayli
+├── icon.ico                  # iconka
+├── requirements.txt          # talab qilinadigan Python kutubholanalri
+├── Struktura                 # Dastur strukturasi
+└── finance.db                # Ma’lumotlar bazasi
