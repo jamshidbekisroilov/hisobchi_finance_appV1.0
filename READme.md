@@ -9,7 +9,7 @@ Oddiy foydalanuvchilar uchun moliyaviy boshqaruv ilovasi — daromad, xarajat, q
 - 📇 Kontragentlar jadvali
 - 📊 Tahlil grafiklari: balans, qarz xavfi, jamg‘arma
 - 👤 Muallif oynasi
-
+DIQQAT hozircha jadvallardagi "tahrirlash" tugmasi ishlamaydi biz uni 2.0 versiyada ishlatamiz
 ## 🖥️ Texnologiyalar
 
 - Python 3
@@ -50,12 +50,12 @@ JavaScript
 💬 Telegram: @jamshidbeksiroilov2000
 
 🌐 Onlayn profillar:
-🐙 GitHub: github.com/jamshidbekisroilov
+🐙 GitHub: https://github.com/jamshidbekisroilov
 
-💼 LinkedIn: linkedin.com/in/jamshidbek-isroilov-accountant
+💼 LinkedIn: https://linkedin.com/in/jamshidbek-isroilov-accountant
 
-🖥️ Portfolio: portfolio-site-cals.onrender.com
+🖥️ Portfolio: https://portfolio-site-cals.onrender.com
 
-📢 Telegram kanal: IT va Buxgalteriya xizmatlari
+📢 Telegram kanal: https://t.me/ITvabuxgalteriyaxizmatlari
 ```bash
 python main.py
