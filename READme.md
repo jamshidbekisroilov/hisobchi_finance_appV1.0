@@ -47,7 +47,7 @@ JavaScript
 
 📧 Email: jisroilov45@gmail.com
 
-💬 Telegram: @jamshidbeksiroilov2000
+💬 Telegram: https://t.me/jamshidbeksiroilov2000
 
 🌐 Onlayn profillar:
 🐙 GitHub: https://github.com/jamshidbekisroilov
