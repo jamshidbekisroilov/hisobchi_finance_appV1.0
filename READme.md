@@ -9,7 +9,7 @@ Oddiy foydalanuvchilar uchun moliyaviy boshqaruv ilovasi — daromad, xarajat, q
 - 📇 Kontragentlar jadvali
 - 📊 Tahlil grafiklari: balans, qarz xavfi, jamg‘arma
 - 👤 Muallif oynasi
-DIQQAT hozircha jadvallardagi "tahrirlash" tugmasi ishlamaydi biz uni 2.0 versiyada ishlatamiz
+-  DIQQAT hozircha jadvallardagi "tahrirlash" tugmasi ishlamaydi biz uni 2.0 versiyada ishlatamiz
 ## 🖥️ Texnologiyalar
 
 - Python 3
