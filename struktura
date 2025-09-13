@@ -1,0 +1,10 @@
+finance_app/
+├── main.py               # Bosh menyu va navigatsiya
+├── daromad.py            # Daromad bo‘limi (formalar, jadval, tahrirlash)
+├── xarajat.py            # Xarajat bo‘limi
+├── kreditor.py           # Kreditorlar bo‘limi
+├── debitor.py            # Debitorlar bo‘limi
+├── db.py                 # SQLite bazani yaratish
+├── models.py             # CRUD funksiyalar
+├── kontragent.py         # Kontragentlar bo‘limi
+└── finance.db            # Ma’lumotlar bazasi
